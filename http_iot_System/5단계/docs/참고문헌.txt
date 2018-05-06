@@ -1,0 +1,35 @@
+assert.h 
+http://forum.falinux.com/zbxe/index.php?document_srl=408376&mid=C_LIB
+주어진 조건이 거짓이면 오류 메시지 출력과 함께 코어 덤프를 출력하고 프로그램 종료
+assert() 있는 파일 이름과 행 번호를 알려주기 때문에 디버깅이 편리함
+
+Close(int fd)
+http://forum.falinux.com/zbxe/index.php?document_srl=408451&mid=C_LIB
+파일 디스크립터를 close해주는 함수
+
+accept()
+http://forum.falinux.com/zbxe/index.php?document_srl=438304&mid=C_LIB
+accept함수는 클라이언트의 접속 요청을 받아드리고 클라이언트와 통신하는 전용 소켓을 생성
+
+addr들을 struct로 main에서 선언, 그게 관리하기 쉽다고 한다.
+
+sockaddr_in
+http://mintnlatte.tistory.com/269
+주소체계를 나타내는 구조체
+sa_fammily_t sa_family 소켓의 주소체계
+sa_data 해당 주소체계에서 사용하는 주소 정보
+
+
+umask(int num)
+http://brothernsister.tistory.com/35
+umask 안의 num만큼 파일 권한에서 빼준 값으로 파일 권한을 설정 ex) umask(001) == 665, 776 umask(0) == 666, 777
+
+
+mknod[옵션] 파일 절대경로(장치 명) 타입 [주번호 부번호]
+
+http://et-0.tistory.com/entry/Linux-%EC%9E%A5%EC%B9%98%ED%8C%8C%EC%9D%BC-%EC%A7%81%EC%A0%91-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0mknod
+http://faq.hostway.co.kr/?mid=Linux_ETC&sort_index=regdate&document_srl=7990&order_type=asc
+
+
+mkfifo 예제
+http://sfixer.tistory.com/entry/%EA%B1%B0%EA%BE%B8%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dmkfifo-%ED%95%A8%EC%88%98

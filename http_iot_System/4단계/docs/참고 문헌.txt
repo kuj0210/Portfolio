@@ -1,0 +1,13 @@
+http://algo79.tistory.com/entry/MySQL-%EC%97%90%EB%9F%AC
+에러 // 
+Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+
+
+http://devanix.tistory.com/210
+mysql_real_connect()
+
+http://www.mysqlkorea.com/sub.html?mcode=manual&scode=01&m_no=21925&cat1=22&cat2=596&cat3=606&lang=k
+mysql_store_result나 mysql_use_result를 해야된다.
+
+http://blog.naver.com/PostView.nhn?blogId=ukyo39&logNo=20125071437
+mysql 데이터 수정 및 삭제

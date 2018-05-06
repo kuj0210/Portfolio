@@ -1,0 +1,12 @@
+raspberry pi 시간 설정
+http://ilikesan.tistory.com/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B42-%EC%8B%9C%EA%B0%84timezone-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0
+
+raspberry pi 키보드 설정
+http://www.rasplay.org/?p=3786
+
+raspberry pi 온습도
+http://blog.naver.com/PostView.nhn?blogId=roboholic84&logNo=220360435768&parentCategoryNo=112&categoryNo=&viewDate=&isShowPopularPosts=false&from=section
+http://fishpoint.tistory.com/1954
+
+버츄얼 박스 연동
+http://blog.teamtreehouse.com/set-up-a-linux-server-on-virtualbox
