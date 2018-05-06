@@ -1,4 +1,6 @@
 # iot System based on http protocal
+raw소켓을 이용하여 http 서버를 작성한다.
+<br>서버는 스레드풀로 구성되어 각 요청이 독립적으로 실행될 수 있게 한다
 
 ## client(android) / server / sensor
 라즈베리파이는 센서에서 값을 읽어 일정 시간마다 server로 전송한다
