@@ -2,8 +2,11 @@
 각 프로젝트별 추가 리드미 참조 (없는 경우 파일내의 docs 또는 이 페이지의 개요와 동일)
 
 ## 외부 저장 프로젝트
-https://github.com/kuj0210/IoT-Pet-Home-System  D2/FEST 결승진출 : 메신저로 제어하는 IOT 시스템 - 펫하우스
-https://github.com/kuj0210/Smart-mobile 진행중인 프로젝트 : 메신저로 제어하는 IOT 시스템 - 유아 모빌
+D2/FEST 결승진출 : 메신저로 제어하는 IOT 시스템 - 펫하우스
+<br>(https://github.com/kuj0210/IoT-Pet-Home-System) 
+<br>
+진행중인 프로젝트 : 메신저로 제어하는 IOT 시스템 - 유아 모빌
+<br>(https://github.com/kuj0210/Smart-mobile) 
 
 
 
