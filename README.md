@@ -7,7 +7,8 @@ D2/FEST 결승진출, 유지보수 중 : 메신저로 제어하는 IOT 시스템
 <br>
 진행중인 프로젝트 : 메신저로 제어하는 IOT 시스템 - 유아 모빌
 <br>(https://github.com/kuj0210/Smart-mobile) 
-
+설계중인
+<br>(https://github.com/kuj0210/MoneyTaker)
 
 
 ## 내부 저장 프로젝트
